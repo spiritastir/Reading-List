@@ -1,1 +1,6 @@
-# react-flux-architecture-es6
+```bash
+npm install
+npm start
+```
+
+http://localhost:9000
